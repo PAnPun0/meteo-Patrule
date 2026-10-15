@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e8a63759343e2944a7f59d47fb87449, type: 3}
+  m_Name: Item_WarmPants
+  m_EditorClassIdentifier: 
+  itemName: "\u0422\u0435\u043F\u043B\u044B\u0435 \u0448\u0442\u0430\u043D\u044B"
+  slotType: 2
+  iconUI: {fileID: 999933603614904900, guid: d456c6149f9065949bf63562bd58e143, type: 3}
+  equipmentSprite: {fileID: 999933603614904900, guid: d456c6149f9065949bf63562bd58e143, type: 3}
+  thermalInsulation: 0.324
+  windProtection: 0.759
+  breathability: 0
